@@ -1,0 +1,112 @@
+{
+    "statuses": [
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Sat Jun 29 18:37:35 +0000 2013",
+            "id": 351046807712825344,
+            "id_str": "351046807712825344",
+            "text": "#stormaudit test location",
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1514856056,
+                "id_str": "1514856056",
+                "name": "Storm Audit",
+                "screen_name": "StormAudit",
+                "location": "",
+                "description": "Changing the way customers and utilities interact during storms",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1,
+                "friends_count": 8,
+                "listed_count": 0,
+                "created_at": "Fri Jun 14 00:36:23 +0000 2013",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/a0.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/si0.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/a0.twimg.com\/profile_images\/344513261575427408\/e92d0d899f118324ee362255602da73b_normal.png",
+                "profile_image_url_https": "https:\/\/si0.twimg.com\/profile_images\/344513261575427408\/e92d0d899f118324ee362255602da73b_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": {
+                "type": "Point",
+                "coordinates": [44.02286185, -69.70845982]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [-69.70845982, 44.02286185]
+            },
+            "place": {
+                "id": "463f5d9615d7d1be",
+                "url": "http:\/\/api.twitter.com\/1\/geo\/id\/463f5d9615d7d1be.json",
+                "place_type": "admin",
+                "name": "Maine",
+                "full_name": "Maine, US",
+                "country_code": "US",
+                "country": "United States",
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [ [ [-71.083924, 42.917125999999996], [-66.885075, 42.917125999999996], [-66.885075, 47.459686], [-71.083924, 47.459686]]]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "stormaudit",
+                        "indices": [0, 11]
+                    }
+                ], "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ], "search_metadata": {
+        "completed_in": 0.009,
+        "max_id": 351046807712825344,
+        "max_id_str": "351046807712825344",
+        "query": "%23stormaudit",
+        "refresh_url": "?since_id=351046807712825344&q=%23stormaudit&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="twitter.example.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="secret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Byo17lA0KFnd92D37nfbQwq65hxBh89pRlkIuEZR4</Value>
+    </Setting>
+    <Setting Name="key" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">h365O4uKWkKw2YixxNXBPQ</Value>
+    </Setting>
+    <Setting Name="accessToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1514856056-fEWKvdO8CnNTVYYxrjtwybSJztYuWBPBN4uT2RG</Value>
+    </Setting>
+    <Setting Name="accessTokenSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">y2uuzQUJSUYbRePOGQ3YEN6YBEphwjFET1VkwTfgxw</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
