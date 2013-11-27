@@ -1,4 +1,4 @@
-twiter-stream
+twitter-stream
 =============
 
 A light weight twitter streaming client and twitter client.  
