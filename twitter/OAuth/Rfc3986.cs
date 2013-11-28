@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace audit.twitter.OAuth
 {
-
+    /// The standard Uri.EscapeDataString was working untill upgraded to VS 2013.
+    /// Found this link which upgrades EscapeDataString to RFC 3986 which twitter requires.
+    /// http://stackoverflow.com/questions/846487/how-to-get-uri-escapedatastring-to-comply-with-rfc-3986
     public static class Rfc3986
     {
         /// <summary>
