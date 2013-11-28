@@ -1,11 +1,9 @@
-twitter-stream
-=============
+# twitter-stream
 
 A light weight twitter streaming client and twitter client. It currently only implements [public statuses stream](https://dev.twitter.com/docs/api/1.1/post/statuses/filter). The public status stream matches one ore more filter predicates.
 
 
-How to use
-=============
+## How to use
 
 1. Set up the authorization (found at your twitter dev account):
 
@@ -34,13 +32,12 @@ Thread.Sleep(new TimeSpan(0, 0, seconds));
 client.StopStreaming();
 ```
 
-Why
-=============
+## Why
 
 Partially to learn how to sign http requests for [Oauth](https://dev.twitter.com/docs/auth/authorizing-request).  Mostly becuase existing library's did not set up for streaming Twitter's api easily.
 
 Any feedback or questions is greatly appreicated.
 
-License
-=============
+## License
+
 The MIT License (MIT)
